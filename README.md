@@ -10,4 +10,5 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/crea
  "An error occurred while installing racc (1.6.2), and Bundler cannot continue."
  --> sudo bundle update
 
+ https://alaning0.github.io/my-first-site/
  
